@@ -1,1 +1,1 @@
-A simple program to generate a random alpha numeric password. You decide the length and the number of letters and symbols in it.
+A simple program to generate a random alpha numeric password. Just give it the length and the total number of characters, numbers and symbols you want in your password.
